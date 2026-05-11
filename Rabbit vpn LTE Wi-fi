@@ -18,4 +18,23 @@ vless://9a3e3ee0-08f1-4c87-8e8b-bb3c650ee1f1@158.160.246.28:8443?security=realit
 
 vless://76491f61-c8fe-4a42-a2d1-06b9415d54e6@spark.frost-api.com:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=bcda713784d56483#%E2%AC%9C+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+-+1
 
+vless://8a194136-0751-479e-a09f-2110d388fb32@193.233.138.247:443?security=reality&encryption=none&pbk=bmBzY3n9cd-gKtnA7hikC9NMHKVHTYs7mt7SdudWEXg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=17f8007e68#%F0%9F%87%AB%F0%9F%87%AE%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%233
 
+vless://e4934f14-3dc1-41cb-8e50-f46227ab8a96@85.192.38.115:443?security=reality&encryption=none&pbk=EdGe0g5xCQq14KhxL51NrgeKiFy6Z6CAvsfK5TBSKVY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=f2d55d5f#%F0%9F%87%AC%F0%9F%87%A7%20%D0%9C%D0%BE%D0%B1.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%233%E2%9A%A1%EF%B8%8F
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@usa.oreovpn.site:50000?security=reality&encryption=none&pbk=v-GFNg7mpjgtLtoTivB8tTf1Qmz5nYc7oDb8HKQuU1I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=174b28e3b734f12d#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%96%A5%EF%B8%8F%F0%9F%9B%9C%D0%A1%D0%A8%D0%90
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@netangels.oreovpn.site:50000?security=reality&encryption=none&pbk=c_86yDph3TRVks5WScokImwVQF6jLAMHpjXAaBHEVEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=55a1d9797335a6aa#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%96%A5%EF%B8%8F%F0%9F%9B%9C%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@france.oreovpn.site:50000?security=reality&encryption=none&pbk=670reXe_lR0HcDdM9_rZjFxkEP5mgNkvYX8gyscLRHk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6afb5503bb3aa622#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%96%A5%EF%B8%8F%F0%9F%9B%9C%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@nd1.oreovpn.site:51000?security=reality&encryption=none&pbk=dGWWT_yq8pX2cLyLzkbEAJJeFermns70VR4v1LM7KDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c378709459f393a6#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%93%B6%F0%9F%93%B1%F0%9F%9B%A1%20%D0%91%D0%95%D0%9B%D0%AB%D0%95%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98%20%E2%84%96%201%20%F0%9F%94%A5%F0%9F%9A%80
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@germanycdn.oreovpn.site:443?path=%2Fwspath%2F&security=tls&alpn=http%2F1.1&encryption=none&host=germanycdn.oreovpn.site&fp=random&type=ws&sni=germanycdn.oreovpn.site#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%93%B6%F0%9F%93%B1%F0%9F%9B%9F%D0%91%D0%95%D0%9B%D0%AB%D0%95%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98%20%E2%84%96%202
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@niderlandibs.oreovpn.site:443?path=%2Fwspath%2F&security=tls&alpn=http%2F1.1&encryption=none&host=niderlandibs.oreovpn.site&fp=random&type=ws&sni=niderlandibs.oreovpn.site#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%93%B6%F0%9F%93%B1%F0%9F%9B%9F%D0%91%D0%95%D0%9B%D0%AB%D0%95%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98%20%E2%84%96%203
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@netangels.oreovpn.site:50000?security=reality&encryption=none&pbk=c_86yDph3TRVks5WScokImwVQF6jLAMHpjXAaBHEVEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=55a1d9797335a6aa#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%96%A5%EF%B8%8F%F0%9F%9B%9C%F0%9F%8E%A6%D0%AE%D1%82%D1%83%D0%B1%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
+
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@finka2.oreovpn.site:50000?security=reality&encryption=none&pbk=5sRp_-w2QuipYk9G7lUcnOjHMJCtKBwRRbPaIRKqYm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=d9211e5b4e45d1eb#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%96%A5%EF%B8%8F%F0%9F%9B%9C%F0%9F%8E%AEDiscord
+vless://f00a92f9-7a9c-47ca-aa01-ff69b04d69c3@neiro.oreovpn.site:50000?security=reality&encryption=none&pbk=RMSTo4fhU1rjDCXJzPA1RHRsUEPsGsJf_wJR4S7P00o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aa144875e69c6a43#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%96%A5%EF%B8%8F%F0%9F%9B%9C%F0%9F%A4%96%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%20GPT%2FGEMINI%2F%D0%98%20%D0%A2%D0%94
